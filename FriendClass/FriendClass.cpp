@@ -14,6 +14,7 @@ public:
 
 class siswa
 {
-
+private:
+public:
 };
 
