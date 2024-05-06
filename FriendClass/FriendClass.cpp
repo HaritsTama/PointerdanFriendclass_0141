@@ -7,5 +7,7 @@ class orang
 {
 private:
 	string nama;
+public:
+
 };
 
