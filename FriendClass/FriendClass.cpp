@@ -6,6 +6,6 @@ class mahasiswa; //deklarasi class mahasiswa
 class orang
 {
 private:
-
+	string nama;
 };
 
